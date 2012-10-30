@@ -1,0 +1,13 @@
+local_settings.py
+*.pyc
+.DS_Store
+_build
+.*.sw[po]
+*.egg-info
+dist
+build
+MANIFEST
+tests/subtp.db
+.buildinfo
+.tox
+
